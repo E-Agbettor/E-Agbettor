@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elliot A. Agbettor
-- A passionate web developer skilled in backend development with 5 years of experience. Well organized, self-motivated, and proficient in programming. Developed web apps and currently collaborating on a project at Amalitech.
+- A passionate web developer skilled in backend development with 2 years of experience. Well organized, self-motivated, and proficient in programming. Developed web apps and currently collaborating on a project at Amalitech.
 - 👀 I’m interested in Full Stack development...
 - 🌱 I’m currently learning  Salesforce, AWS, and GCP...
 
